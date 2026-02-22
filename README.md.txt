@@ -25,6 +25,10 @@ This project analyzes sales data using advanced SQL techniques including:
 - CASE statements
 - Views
 
+## Database Schema
+
+![ERD](ERD.png)
+
 ## Example Query (Year-over-Year Growth)
 
 SELECT
